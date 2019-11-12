@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		646AC748235A6B3A00B9DBF4 /* Username controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646AC747235A6B3A00B9DBF4 /* Username controller.swift */; };
+		646AC748235A6B3A00B9DBF4 /* FeedViewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646AC747235A6B3A00B9DBF4 /* FeedViewcontroller.swift */; };
 		64FC79E923512A100043366E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FC79E823512A100043366E /* AppDelegate.swift */; };
 		64FC79EB23512A100043366E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FC79EA23512A100043366E /* SceneDelegate.swift */; };
 		64FC79ED23512A100043366E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FC79EC23512A100043366E /* ViewController.swift */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		646AC747235A6B3A00B9DBF4 /* Username controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Username controller.swift"; sourceTree = "<group>"; };
+		646AC747235A6B3A00B9DBF4 /* FeedViewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewcontroller.swift; sourceTree = "<group>"; };
 		64FC79E523512A100043366E /* LoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64FC79E823512A100043366E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		64FC79EA23512A100043366E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,7 +81,7 @@
 		64FC79DC23512A0F0043366E = {
 			isa = PBXGroup;
 			children = (
-				646AC747235A6B3A00B9DBF4 /* Username controller.swift */,
+				646AC747235A6B3A00B9DBF4 /* FeedViewcontroller.swift */,
 				64FC79E723512A100043366E /* LoginScreen */,
 				64FC79FE23512A140043366E /* LoginScreenTests */,
 				64FC7A0923512A140043366E /* LoginScreenUITests */,
@@ -262,7 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				646AC748235A6B3A00B9DBF4 /* Username controller.swift in Sources */,
+				646AC748235A6B3A00B9DBF4 /* FeedViewcontroller.swift in Sources */,
 				64FC79ED23512A100043366E /* ViewController.swift in Sources */,
 				64FC79E923512A100043366E /* AppDelegate.swift in Sources */,
 				64FC79EB23512A100043366E /* SceneDelegate.swift in Sources */,

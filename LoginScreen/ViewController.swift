@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         addUserNameField()
         addPasswordField()
         addButton()
+        
+        
 
     
         
@@ -143,9 +145,8 @@ class ViewController: UIViewController {
             if(!username.isEmpty && !password.isEmpty){
                 print(username)
                 
-                let usernameViewController = UsernameViewController(username: username)
-                
-                self.navigationController?.pushViewController(usernameViewController, animated: true)
+                let feedViewController = FeedViewController()
+                self.navigationController?.pushViewController(FeedViewController(), animated: true)
             }else{
                 print("not entered")
             }
